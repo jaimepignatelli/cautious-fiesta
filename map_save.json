@@ -881,6 +881,14 @@
          "tilewidth":32
         }, 
         {
+         "firstgid":321,
+         "source":"2_LivingRoom_32x32.tsx"
+        }, 
+        {
+         "firstgid":1041,
+         "source":"1_Generic_32x32.tsx"
+        }, 
+        {
          "columns":24,
          "firstgid":2001,
          "image":"Hospital_01.png",
