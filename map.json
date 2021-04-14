@@ -891,7 +891,7 @@
         {
          "columns":24,
          "firstgid":2001,
-         "image":"..\/Modern_Interiors\/4_RPG_MAKER_MV\/Interiors\/Theme_Sorter_MV\/Hospital_01.png",
+         "image":"Hospital_01.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -904,7 +904,7 @@
         {
          "columns":16,
          "firstgid":2577,
-         "image":"..\/Modern_Interiors\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "image":"Interiors_32x32.png",
          "imageheight":21376,
          "imagewidth":512,
          "margin":0,
